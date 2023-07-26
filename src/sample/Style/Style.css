@@ -1,0 +1,40 @@
+.number-button {
+    -fx-font-size: 18;
+    -fx-font-weight: bold;
+    -fx-font-family: normal;
+    -fx-border-color: dimgray;
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+
+.operator-button {
+    -fx-font-size: 20;
+    -fx-font-weight: bold;
+    -fx-font-style: normal;
+    -fx-border-color: dimgray;
+    -fx-background-color: black;
+}
+
+.menu-button {
+    -fx-font-size: 10;
+    -fx-font-weight: bold;
+    -fx-font-style: normal;
+    -fx-border-color: dimgray;
+    -fx-background-color: black;
+}
+
+.label-text {
+    -fx-font-family: Arial Black, Arial Bold, Gadget, sans-serif;;
+    -fx-font-size: 13px;
+    -fx-font-weight: bold;
+}
+
+.label2-text {
+    -fx-font-family: Arial Black, Arial Bold, Gadget, sans-serif;;
+    -fx-font-size: 20px;
+    -fx-font-weight: bold;
+}
+
+.label3-text {
+
+}
